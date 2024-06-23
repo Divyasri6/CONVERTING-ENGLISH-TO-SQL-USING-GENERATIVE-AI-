@@ -1,0 +1,21 @@
+Show me the locations with the highest prevalence of obesity."
+"List all the locations where the prevalence of stroke is above 3%."
+"What is the crude prevalence of asthma in Bellwood?"
+
+Conditional Data Retrieval:
+
+"Which locations in Illinois have a crude prevalence of depression greater than 20%?"
+"Find the total population of locations where the prevalence of diabetes is more than 10%."
+"Give me the names of the locations where the crude prevalence of arthritis is between 25% and 30%."
+
+Year and State Specific Queries:
+
+"Show the data for health outcomes in Illinois for the year 2021."
+"What are the obesity rates in different locations in Illinois for the year 2021?"
+"Provide the stroke prevalence data for Illinois for the year 2021."
+
+Advanced Data Retrieval:
+
+"List all locations with their respective prevalence rates for diabetes."
+"Give me the confidence limits for the prevalence of asthma in each location."
+"Which location has the lowest high confidence limit for obesity prevalence?"
